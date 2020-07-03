@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "E952:7B45:07EA:0DBA:5EFF2EC7",
+    "set-cookie": "__cfduid=dad13f25e6c47b9c3e4d980f31293650c1593785182; expires=Sun, 02-Aug-20 14:06:22 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "vary": "Authorization,Accept-Encoding",
+    "cf-ray": "5ad12aac2b36326c-KBP",
+    "source-age": "0",
+    "expires": "Fri, 03 Jul 2020 14:11:22 GMT",
+    "cf-cache-status": "DYNAMIC",
+    "x-served-by": "cache-vie21622-VIE",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1593785182.347298,VS0,VE192",
+    "x-xss-protection": "1; mode=block",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
+    "cf-request-id": "03b698ff9c0000326cc03cf200000001",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS, MISS",
+    "x-deno-warning": "Implicitly using master branch https://deno.land/std/encoding/csv.ts",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "1efc9ab635aa16299e3f27e2349c2ee4fc214d19",
+    "content-type": "application/typescript; charset=utf-8",
+    "etag": "W/\"d83090b4f13eadb118358fbe89a2b2e7a04b51cf4f200fb00139a787fde4ca25\"",
+    "date": "Fri, 03 Jul 2020 14:06:22 GMT"
+  },
+  "url": "https://deno.land/std/encoding/csv.ts"
+}
