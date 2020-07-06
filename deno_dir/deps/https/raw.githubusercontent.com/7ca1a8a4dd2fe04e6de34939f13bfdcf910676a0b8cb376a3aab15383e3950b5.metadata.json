@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS, MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0, 0",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "7026:6455:3F3050:4C786F:5F037BAB",
+    "x-fastly-request-id": "981ee2898c2913e766c9d35d96194fcaeb0625a7",
+    "connection": "keep-alive",
+    "expires": "Mon, 06 Jul 2020 19:34:48 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "date": "Mon, 06 Jul 2020 19:29:48 GMT",
+    "x-served-by": "cache-vie21646-VIE",
+    "x-timer": "S1594063788.875686,VS0,VE193",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "etag": "W/\"06827debc5f632ffc67aafb1315c3dc6c9bee415857fc190d737ddf53028f2c5\""
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_createSet.js"
+}

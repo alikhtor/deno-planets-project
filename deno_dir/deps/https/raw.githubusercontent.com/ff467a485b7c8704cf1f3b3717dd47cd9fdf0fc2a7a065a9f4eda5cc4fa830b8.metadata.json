@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-served-by": "cache-vie21624-VIE",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1594063785.569981,VS0,VE236",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache-hits": "0, 0",
+    "etag": "W/\"666dd2438caac59505d62b620ff03b40efbabb0bf9ef016032058a80c57d8650\"",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-fastly-request-id": "1ccb2871f8caa7b3bdb50c6e6cf6de8c3042f746",
+    "x-github-request-id": "11B8:539E:4D369:75A3F:5F037BA8",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "connection": "keep-alive",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/matches.js"
+}

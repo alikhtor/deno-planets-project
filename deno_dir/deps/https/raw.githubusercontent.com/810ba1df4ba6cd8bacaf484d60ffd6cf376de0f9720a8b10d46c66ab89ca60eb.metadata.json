@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "connection": "keep-alive",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "433A:04D8:84CC00:9EDFE6:5F037BA8",
+    "date": "Mon, 06 Jul 2020 19:29:46 GMT",
+    "x-fastly-request-id": "ff900ce106e33bc25b420a34ad4a12e7b686e9ad",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"e251ff358b50f840b1be149811ccd01dff014d69d8146f9eb6784ebaf1661f20\"",
+    "x-served-by": "cache-vie21636-VIE",
+    "x-timer": "S1594063786.103818,VS0,VE196",
+    "x-cache-hits": "0, 0",
+    "expires": "Mon, 06 Jul 2020 19:34:46 GMT",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_createCurry.js"
+}

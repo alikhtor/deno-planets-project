@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "etag": "W/\"74d6ffab1aa6c1982f7869abde394ae23514138451e53e190a826fb711b8d6cf\"",
+    "x-fastly-request-id": "b224d684fb43cf50007501f5494fac748dd11753",
+    "x-timer": "S1594063788.598959,VS0,VE192",
+    "source-age": "0",
+    "x-cache-hits": "0, 0",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "x-served-by": "cache-vie21628-VIE",
+    "x-cache": "MISS, MISS",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "6B98:0DB0:404839:4DD814:5F037BAA",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_mapCacheGet.js"
+}

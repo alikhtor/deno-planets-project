@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0, 0",
+    "access-control-allow-origin": "*",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31536000",
+    "x-fastly-request-id": "646148872c4a67ce00b9b041f10ee57a98b46ea1",
+    "connection": "keep-alive",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1594063785.869366,VS0,VE245",
+    "x-served-by": "cache-vie21625-VIE",
+    "source-age": "0",
+    "x-github-request-id": "0F06:261D:899ADE:A3EA59:5F037BA8",
+    "etag": "W/\"cc637a4ff405619efde384221fa16f4bdfb69e8b013554098b0d8a5cdee8f6c1\"",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/reduceRight.js"
+}

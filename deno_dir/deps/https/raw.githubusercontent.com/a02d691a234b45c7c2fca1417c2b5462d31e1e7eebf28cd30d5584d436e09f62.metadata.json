@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-fastly-request-id": "b215f8f9698e5f4847c73031686ed55615b4a12c",
+    "cache-control": "max-age=300",
+    "x-timer": "S1594063788.598984,VS0,VE181",
+    "vary": "Authorization,Accept-Encoding",
+    "etag": "W/\"2b2757253ef19dfac7ae2b76006c6f57ec095c07c50cb7c9e9fdc64d8cf0168b\"",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "connection": "keep-alive",
+    "x-github-request-id": "7486:5984:412940:4EC1E5:5F037BAB",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-vie21650-VIE",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_compareMultiple.js"
+}

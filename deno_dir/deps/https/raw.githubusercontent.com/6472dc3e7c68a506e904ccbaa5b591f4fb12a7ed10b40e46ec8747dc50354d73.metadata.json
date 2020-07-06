@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "etag": "W/\"a3b72d741c4db5d0d85297c513c696d6eed14e0427e7dbfb2b0256d4d906aec1\"",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-served-by": "cache-vie21647-VIE",
+    "x-timer": "S1594063786.806057,VS0,VE191",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "9c5765dbe9a368619f807f7eb9522d9a916c46cc",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "B0B4:4109:1EB0B1:2589F1:5F037BA9",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "connection": "keep-alive",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_baseFindKey.js"
+}

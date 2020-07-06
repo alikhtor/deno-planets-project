@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-vie21650-VIE",
+    "x-cache-hits": "0, 0",
+    "x-fastly-request-id": "28c1e643bf621920f17a92e31433241855a9fcb5",
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "access-control-allow-origin": "*",
+    "connection": "keep-alive",
+    "x-timer": "S1594063785.137613,VS0,VE204",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "x-cache": "MISS, MISS",
+    "x-github-request-id": "9552:2B27:87A898:A1EC91:5F037BA8",
+    "etag": "W/\"cc30938d22667247c596930d7c2e20a9713de044040b2999bd35e1615e49b147\"",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/zipWith.js"
+}

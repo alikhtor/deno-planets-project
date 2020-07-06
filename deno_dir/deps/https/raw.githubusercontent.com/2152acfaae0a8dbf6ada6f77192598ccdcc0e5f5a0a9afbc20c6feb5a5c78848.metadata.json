@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-served-by": "cache-vie21624-VIE",
+    "x-fastly-request-id": "60bbe4fd29243c5f896cfc1ed58a6050b4c4345c",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "etag": "W/\"19ed88cfd5dbc9aea1571f01bd7cab411042f8288fa271665e6559b8de35deee\"",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS, MISS",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "connection": "keep-alive",
+    "x-timer": "S1594063785.604094,VS0,VE203",
+    "vary": "Authorization,Accept-Encoding",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "C7AA:0DB0:404809:4DD7EF:5F037BA8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0, 0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/nth.js"
+}

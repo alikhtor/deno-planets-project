@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-fastly-request-id": "983b2e5fdc7994c38c7e8d2a6f66620ca9c543a1",
+    "etag": "W/\"c0c3f683a776e76446ab10f3a8164e4a58318599892a7ea9cf3f933dcda34255\"",
+    "x-cache-hits": "0, 0",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1594063785.134645,VS0,VE190",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "connection": "keep-alive",
+    "x-cache": "MISS, MISS",
+    "source-age": "0",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "B952:04D7:404EBD:4E1F4D:5F037BA8",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "x-served-by": "cache-vie21630-VIE"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/takeRight.js"
+}

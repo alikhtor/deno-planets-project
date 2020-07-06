@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache-hits": "0, 0",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS, MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "etag": "W/\"e0d05278361672b3ff03375c1753944315ce64123d4f809accac16c70a4cb9e3\"",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-served-by": "cache-vie21651-VIE",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-github-request-id": "586A:0414:7E9A3E:97EE6C:5F037BA7",
+    "connection": "keep-alive",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "28443c32c91c2335ab3647a0a751059dd763eb4d",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "x-timer": "S1594063784.214247,VS0,VE206"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/invoke.js"
+}

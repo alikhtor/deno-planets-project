@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "541cfa2877d040ccb569e1119c26986c896ca786",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "2492:7B56:86A8C6:A0C9D7:5F037BA9",
+    "x-cache-hits": "0, 0",
+    "connection": "keep-alive",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "source-age": "0",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "etag": "W/\"f95f871fb4e3e9a085e6ef0be5aeb5de4cafa5a3478dbace3f74e933184c4451\"",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "x-cache": "MISS, MISS",
+    "accept-ranges": "bytes",
+    "x-timer": "S1594063785.397800,VS0,VE188",
+    "vary": "Authorization,Accept-Encoding",
+    "x-served-by": "cache-vie21625-VIE",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_flatRest.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache-hits": "0, 0",
+    "etag": "W/\"32291ca35a3d69b23f9dd7e43e4d1a5bf0db9a6591c739505a99f109194ec120\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "0",
+    "x-timer": "S1594063784.212138,VS0,VE202",
+    "x-fastly-request-id": "015d67b0090ada8b1448c4607bbe15f139c8afd3",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "access-control-allow-origin": "*",
+    "connection": "keep-alive",
+    "x-github-request-id": "A76C:5984:412913:4EC1AB:5F037BA7",
+    "x-cache": "MISS, MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-served-by": "cache-vie21627-VIE",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/gte.js"
+}

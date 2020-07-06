@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 06 Jul 2020 19:29:48 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-vie21640-VIE",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"b94b2e80866f251bd099a6e64b61252b970ea12ce7f3c8da17d569a56ce7a0e2\"",
+    "connection": "keep-alive",
+    "x-github-request-id": "FF82:7A99:1DD3AB:251348:5F037BAB",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "x-content-type-options": "nosniff",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "594d9a9dce683d96e68e77533d9b5d70a5313160",
+    "x-timer": "S1594063788.795614,VS0,VE412",
+    "expires": "Mon, 06 Jul 2020 19:34:48 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_stackHas.js"
+}

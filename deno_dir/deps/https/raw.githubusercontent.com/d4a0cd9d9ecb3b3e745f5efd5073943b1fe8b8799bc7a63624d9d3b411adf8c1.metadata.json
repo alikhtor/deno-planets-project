@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "6B98:0DB0:4047F2:4DD79F:5F037BA3",
+    "accept-ranges": "bytes",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Mon, 06 Jul 2020 19:29:43 GMT",
+    "x-cache": "MISS, MISS",
+    "etag": "W/\"94f4523781ebc343c87e8391ac65ad8854861a9b9a8f974763f81233f26d1ce2\"",
+    "x-served-by": "cache-vie21650-VIE",
+    "access-control-allow-origin": "*",
+    "x-timer": "S1594063783.481473,VS0,VE207",
+    "x-fastly-request-id": "2d69671e42f44b658b2953bb935e0c707145e8ac",
+    "x-cache-hits": "0, 0",
+    "cache-control": "max-age=300",
+    "connection": "keep-alive",
+    "source-age": "0",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "expires": "Mon, 06 Jul 2020 19:34:43 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/drop.js"
+}

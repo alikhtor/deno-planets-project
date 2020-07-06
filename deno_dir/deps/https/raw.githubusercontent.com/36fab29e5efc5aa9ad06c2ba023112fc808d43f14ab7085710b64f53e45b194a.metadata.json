@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-github-request-id": "0986:34A1:870920:A0ED70:5F037BA8",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-vie21627-VIE",
+    "x-fastly-request-id": "e6b6d5e6ef1b183abb60bb4f7188c9bf49363a71",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "connection": "keep-alive",
+    "x-timer": "S1594063785.612282,VS0,VE507",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"baf7b7beb37ceb18087615ca45ab01878030d8aeed2f48900a020231374f08e1\"",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "text/plain; charset=utf-8"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/pullAllBy.js"
+}

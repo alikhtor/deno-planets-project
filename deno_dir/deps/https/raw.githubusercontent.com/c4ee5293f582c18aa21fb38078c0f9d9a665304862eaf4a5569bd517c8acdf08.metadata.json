@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "source-age": "0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-timer": "S1594063786.805948,VS0,VE201",
+    "etag": "W/\"6956302d4a7a92c035a2bc0c767606014e0ad7ed27d17b562a52b477e51e6d7a\"",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "0976:5985:8274FC:9B9050:5F037BA9",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Mon, 06 Jul 2020 19:29:46 GMT",
+    "x-cache-hits": "0, 0",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-vie21636-VIE",
+    "access-control-allow-origin": "*",
+    "expires": "Mon, 06 Jul 2020 19:34:46 GMT",
+    "connection": "keep-alive",
+    "x-fastly-request-id": "aa5222995b64a2e7c18890203bc84573b1d5eca9",
+    "x-cache": "MISS, MISS",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/union.js"
+}

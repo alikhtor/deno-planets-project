@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "connection": "keep-alive",
+    "etag": "W/\"5ca1e7b52ce4df50aed369f2e6cbda3625ab3b68e731f35f3deab6f6b8ee2eb9\"",
+    "x-served-by": "cache-vie21641-VIE",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-github-request-id": "CF62:7C58:7FA5D0:9913AA:5F037BA9",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS, MISS",
+    "x-fastly-request-id": "2df184506df111d03175b88624d0294e91f87f9d",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "x-cache-hits": "0, 0",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1594063785.396347,VS0,VE178",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_customDefaultsMerge.js"
+}

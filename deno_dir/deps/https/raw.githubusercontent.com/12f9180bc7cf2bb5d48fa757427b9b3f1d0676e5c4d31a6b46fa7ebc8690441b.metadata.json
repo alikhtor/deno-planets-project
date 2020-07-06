@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1594063785.618142,VS0,VE219",
+    "vary": "Authorization,Accept-Encoding",
+    "etag": "W/\"62b6d9f837ee04025ffd74d688b3e3392a867e50d6666a898f01dc3c855cbed2\"",
+    "x-cache": "MISS, MISS",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-github-request-id": "76FA:4109:1EB0A4:2589E4:5F037BA8",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "connection": "keep-alive",
+    "x-served-by": "cache-vie21649-VIE",
+    "x-fastly-request-id": "087f566e98f1927eeb71f00e95185b9e966da9a0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/pickBy.js"
+}

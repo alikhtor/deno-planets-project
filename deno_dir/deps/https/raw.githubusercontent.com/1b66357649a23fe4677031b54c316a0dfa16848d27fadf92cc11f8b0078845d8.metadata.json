@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "vary": "Authorization,Accept-Encoding",
+    "x-served-by": "cache-vie21638-VIE",
+    "x-fastly-request-id": "632a7c8e8503ca9c84e2fa69eb30fe2dfa9f9889",
+    "x-github-request-id": "EDDE:7C58:7FA5C9:991384:5F037BA8",
+    "connection": "keep-alive",
+    "etag": "W/\"733c2bdb562465e93901de02ad77e45fa0ca570630280c2b503e59e37b682efa\"",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1594063785.133604,VS0,VE187",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/toInteger.js"
+}

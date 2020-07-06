@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-timer": "S1594063785.136104,VS0,VE220",
+    "content-type": "text/plain; charset=utf-8",
+    "connection": "keep-alive",
+    "x-cache": "MISS, MISS",
+    "x-github-request-id": "815A:1F8B:3AFECE:47D6CD:5F037BA8",
+    "source-age": "0",
+    "etag": "W/\"fc0fac85f786b473d68dbd0ab3d18a8ca25df2322016cad1f8e9236329fe8006\"",
+    "cache-control": "max-age=300",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "x-cache-hits": "0, 0",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-vie21621-VIE",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "c3eea0c85f6ab096284f154edf6dd6e865ff50a3",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/subtract.js"
+}

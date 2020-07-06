@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "x-fastly-request-id": "b4dc8b8ff23d10a1809d1e52af42e5a26f4c05ea",
+    "access-control-allow-origin": "*",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31536000",
+    "connection": "keep-alive",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-vie21647-VIE",
+    "x-cache": "MISS, MISS",
+    "source-age": "0",
+    "x-cache-hits": "0, 0",
+    "etag": "W/\"6ef036d2946e09d3ed062f976b1690e827fb633c4ebe9b028e626962608d4313\"",
+    "x-timer": "S1594063788.537375,VS0,VE214",
+    "x-github-request-id": "885C:6DFB:890DD8:A3CB80:5F037BAB",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_baseXor.js"
+}

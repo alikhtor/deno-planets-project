@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "connection": "keep-alive",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache": "MISS, MISS",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "x-github-request-id": "47EE:261D:899B39:A3EAC0:5F037BAB",
+    "x-cache-hits": "0, 0",
+    "accept-ranges": "bytes",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "etag": "W/\"d459b32ab370d3bdcff0dbe81982482b9e7435c825a454bd205da18b345a25b6\"",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "x-served-by": "cache-vie21624-VIE",
+    "x-timer": "S1594063787.411697,VS0,VE184",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "e2632f2baaf5c542f39bf41826aa64d428136174",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/math.js"
+}

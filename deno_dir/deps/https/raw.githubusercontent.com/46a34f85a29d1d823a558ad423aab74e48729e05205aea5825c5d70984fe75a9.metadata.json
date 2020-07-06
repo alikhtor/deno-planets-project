@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1594063783.478651,VS0,VE489",
+    "x-fastly-request-id": "97599ea7c08e2a25bd06e05c6ad3dcff1adedf2d",
+    "x-github-request-id": "433A:04D8:84CBBC:9EDFCD:5F037BA7",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-vie21638-VIE",
+    "date": "Mon, 06 Jul 2020 19:29:43 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "etag": "W/\"254bf7850410155f4c05434f76792250639c38dfa0bff10d024ec6991f1f8398\"",
+    "x-cache": "MISS, MISS",
+    "expires": "Mon, 06 Jul 2020 19:34:43 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/constant.js"
+}

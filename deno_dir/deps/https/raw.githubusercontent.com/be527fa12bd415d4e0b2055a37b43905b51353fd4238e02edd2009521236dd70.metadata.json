@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "0",
+    "x-timer": "S1594063784.077691,VS0,VE200",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0, 0",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "connection": "keep-alive",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "11B8:539E:4D368:75A3E:5F037BA7",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "x-served-by": "cache-vie21627-VIE",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS, MISS",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"763599f3cb3671f458b3fa2998cb246d2c01e33904c533c4a899c11a245b1519\"",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "a15c688eb5a41617db60055e509efce217ae9d8f",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/fromPairs.js"
+}

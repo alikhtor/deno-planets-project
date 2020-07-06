@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"744341089a103122710ac890e446f49109717c31f03b81b7ca0727ae33500058\"",
+    "x-github-request-id": "A76C:5984:412909:4EC1A8:5F037BA7",
+    "connection": "keep-alive",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "expires": "Mon, 06 Jul 2020 19:34:43 GMT",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0, 0",
+    "source-age": "0",
+    "x-timer": "S1594063783.482289,VS0,VE492",
+    "x-xss-protection": "1; mode=block",
+    "date": "Mon, 06 Jul 2020 19:29:43 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache": "MISS, MISS",
+    "x-served-by": "cache-vie21645-VIE",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "d168aed26014f740220f2a3f6368a4d697bdef50"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/escapeRegExp.js"
+}

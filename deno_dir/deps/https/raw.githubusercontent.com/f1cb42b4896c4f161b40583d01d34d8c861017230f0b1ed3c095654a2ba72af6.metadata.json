@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "etag": "W/\"58720abaac70db501c5082e70b116bf030df9a5c506f2fc684623eeff9c6e193\"",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-vie21629-VIE",
+    "content-type": "text/plain; charset=utf-8",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1594063785.136010,VS0,VE221",
+    "strict-transport-security": "max-age=31536000",
+    "x-fastly-request-id": "d31671b635d2fd19d4c733f07fea7e46f4eafd1b",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache": "MISS, MISS",
+    "connection": "keep-alive",
+    "x-github-request-id": "2AD0:6456:8A2E35:A4EF23:5F037BA7",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/tap.js"
+}

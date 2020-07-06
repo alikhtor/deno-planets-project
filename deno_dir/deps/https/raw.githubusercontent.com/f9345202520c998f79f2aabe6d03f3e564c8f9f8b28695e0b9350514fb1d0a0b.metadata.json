@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-vie21623-VIE",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "x-timer": "S1594063785.799589,VS0,VE197",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "85FE:04D7:404EB4:4E1F47:5F037BA8",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "159b9768deee1b9bffdae6acc00c84981dd83140",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "etag": "W/\"4297784eb62a4e74a14b9fed65b108a54aec6ff0f749ee444a6db81e1a341b30\"",
+    "x-xss-protection": "1; mode=block",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache": "MISS, MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/snakeCase.js"
+}

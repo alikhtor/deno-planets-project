@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache": "MISS, MISS",
+    "x-fastly-request-id": "b0d992154fa62d91cc4075650d98d0994d247e90",
+    "connection": "keep-alive",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "7738:316A:5AC21:85A88:5F037BA9",
+    "x-served-by": "cache-vie21649-VIE",
+    "source-age": "0",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"be4ba609097f0cee68c0e162aad0e8d20d22e59f72d3124a506c91c9afe23631\"",
+    "x-xss-protection": "1; mode=block",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "x-cache-hits": "0, 0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-timer": "S1594063786.564818,VS0,VE188",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/truncate.js"
+}

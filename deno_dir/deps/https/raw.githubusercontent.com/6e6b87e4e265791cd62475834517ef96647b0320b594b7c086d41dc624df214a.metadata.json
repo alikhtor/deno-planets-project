@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"c3383c0e0672b0e2d5763d5febff5a26cc1f88ddea67078a9a946b4456eac316\"",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1594063788.597802,VS0,VE192",
+    "x-cache-hits": "0, 0",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "884db713fb942a0489573a8e1698c90a7b0e83cb",
+    "x-cache": "MISS, MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "accept-ranges": "bytes",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "x-github-request-id": "A6B6:2EB1:3EAC81:4B2BC2:5F037BAA",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "connection": "keep-alive",
+    "source-age": "0",
+    "x-served-by": "cache-vie21631-VIE",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_baseMergeDeep.js"
+}

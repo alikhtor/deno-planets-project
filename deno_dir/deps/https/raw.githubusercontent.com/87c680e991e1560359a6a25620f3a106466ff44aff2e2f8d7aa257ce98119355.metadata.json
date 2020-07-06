@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "x-timer": "S1594063783.473947,VS0,VE495",
+    "x-cache": "MISS, MISS",
+    "expires": "Mon, 06 Jul 2020 19:34:43 GMT",
+    "x-content-type-options": "nosniff",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "097f4107913ef64fc03cbae049ddf6abbb4a98ab",
+    "x-served-by": "cache-vie21621-VIE",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "connection": "keep-alive",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "etag": "W/\"d56f922891378ddf8381afd381a37dcd3de739bc96359426ff3e7070f47a6f32\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "7260:7B56:86A88E:A0C997:5F037BA7",
+    "date": "Mon, 06 Jul 2020 19:29:43 GMT",
+    "x-cache-hits": "0, 0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/bindAll.js"
+}

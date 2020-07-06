@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "expires": "Mon, 06 Jul 2020 19:46:05 GMT",
+    "date": "Mon, 06 Jul 2020 19:41:05 GMT",
+    "x-github-request-id": "0976:5985:8274FC:9B9050:5F037BA9",
+    "cf-cache-status": "MISS",
+    "cf-request-id": "03c73e83c000003280f1b40200000001",
+    "x-fastly-request-id": "accd986ec29cefcfe5ebd96d2f3deb44c502c73c",
+    "etag": "W/\"6956302d4a7a92c035a2bc0c767606014e0ad7ed27d17b562a52b477e51e6d7a\"",
+    "cache-control": "max-age=14400",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1594064465.924194,VS0,VE200",
+    "access-control-allow-origin": "*",
+    "set-cookie": "__cfduid=dd6e03f1f549e291e43fe7d1ed80fb00a1594064464; expires=Wed, 05-Aug-20 19:41:04 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "content-type": "application/javascript; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache": "MISS, MISS",
+    "x-xss-protection": "1; mode=block",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-served-by": "cache-vie21647-VIE",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=31536000",
+    "cf-ray": "5aebcd193a083280-KBP"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/union.js"
+}

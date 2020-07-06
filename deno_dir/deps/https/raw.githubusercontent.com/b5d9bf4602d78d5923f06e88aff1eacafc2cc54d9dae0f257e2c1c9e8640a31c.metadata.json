@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "e0c0943d4155573e34678f4f4e0a500f6ced49b8",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "etag": "W/\"69237ccc0c4fa2c03487221aa28ecc6f91b3ebd2a87326bf7e9bfb4a4006a64c\"",
+    "x-served-by": "cache-vie21632-VIE",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1594063788.532006,VS0,VE213",
+    "x-cache": "MISS, MISS",
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "connection": "keep-alive",
+    "x-github-request-id": "243C:316E:8018AC:99C4E4:5F037BAB",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_DataView.js"
+}

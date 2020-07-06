@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "etag": "W/\"e43974028ee757fcf78a95ac9280136538f0306ef70b3dc03780440c27cf0db7\"",
+    "source-age": "0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-timer": "S1594063784.412366,VS0,VE517",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0, 0",
+    "connection": "keep-alive",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "x-served-by": "cache-vie21639-VIE",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "247E:7C57:423B76:50570A:5F037BA8",
+    "x-fastly-request-id": "3b834bcd0016aae999990889e0a84b310c96319d",
+    "x-content-type-options": "nosniff",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-cache": "MISS, MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/isPlainObject.js"
+}

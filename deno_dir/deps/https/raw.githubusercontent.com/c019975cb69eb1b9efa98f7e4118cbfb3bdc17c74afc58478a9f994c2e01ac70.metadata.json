@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "connection": "keep-alive",
+    "x-served-by": "cache-vie21632-VIE",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS, MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "f9cb5a46633eb6ddcd47d85011d8d63c4ef03bf7",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache-hits": "0, 0",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "etag": "W/\"7914b7fb3e20b9ac7ddc164814ebbbf33181fde88c4b78b12f57927412d9cb02\"",
+    "accept-ranges": "bytes",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "x-timer": "S1594063785.133870,VS0,VE198",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-github-request-id": "53B6:1F88:4E445:77791:5F037BA8",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/tail.js"
+}

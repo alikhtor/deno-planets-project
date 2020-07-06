@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache-hits": "0, 0",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1594063788.283383,VS0,VE192",
+    "etag": "W/\"fa505ed9c6af8c949a7f9c8ae62d01ded78486966653b9e9eacfc90a4acd6c6d\"",
+    "date": "Mon, 06 Jul 2020 19:29:48 GMT",
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-vie21638-VIE",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "expires": "Mon, 06 Jul 2020 19:34:48 GMT",
+    "x-cache": "MISS, MISS",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "2C82:6DFB:890DEA:A3CB8E:5F037BAB",
+    "source-age": "0",
+    "x-fastly-request-id": "1f28431adaafd37cadc5eb02e440c0d65ba3d06f",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_hashDelete.js"
+}

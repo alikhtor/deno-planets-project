@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache": "MISS, MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "x-timer": "S1594063785.644215,VS0,VE481",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "fc0a58f866915e1efe7988bb9f35edeb288f3119",
+    "x-github-request-id": "0898:100C:819E7A:9B6EB6:5F037BA8",
+    "x-served-by": "cache-vie21648-VIE",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "etag": "W/\"1f9fbbdda59ff6e913b869b83548897773a8d330dc58730b412a33d11663e45a\"",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "connection": "keep-alive",
+    "source-age": "0",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/lowerFirst.js"
+}

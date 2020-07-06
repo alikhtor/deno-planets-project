@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "expires": "Mon, 06 Jul 2020 19:34:48 GMT",
+    "etag": "W/\"832c78ea5be730c9d7f1d73d90a5cd66016ed4160780e418d1d99995472088c9\"",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "x-timer": "S1594063788.599667,VS0,VE496",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "D2AA:2618:25A03:46C44:5F037BAB",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-served-by": "cache-vie21651-VIE",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "14e9313558dc1bfd10eb038454e7958923774320",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Mon, 06 Jul 2020 19:29:48 GMT",
+    "connection": "keep-alive"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_getSymbolsIn.js"
+}

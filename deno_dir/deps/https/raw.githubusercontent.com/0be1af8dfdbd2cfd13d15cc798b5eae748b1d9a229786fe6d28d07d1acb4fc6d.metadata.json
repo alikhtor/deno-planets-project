@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "text/plain; charset=utf-8",
+    "connection": "keep-alive",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "x-fastly-request-id": "2866b6d9cefd148680784d82b77980d683e719b2",
+    "x-served-by": "cache-vie21620-VIE",
+    "etag": "W/\"ca6dc4ca96354cc35a21c6f6e1ad06787742d77c65cec571ac9972ece458e6c9\"",
+    "x-cache": "MISS, MISS",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-github-request-id": "D272:0DB0:404800:4DD7E2:5F037BA7",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "x-timer": "S1594063784.215727,VS0,VE195",
+    "vary": "Authorization,Accept-Encoding",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-cache-hits": "0, 0",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/invertBy.js"
+}

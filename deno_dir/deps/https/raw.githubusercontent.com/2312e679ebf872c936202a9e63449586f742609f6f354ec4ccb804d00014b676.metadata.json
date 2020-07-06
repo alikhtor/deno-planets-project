@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-served-by": "cache-vie21648-VIE",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "connection": "keep-alive",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1594063788.534662,VS0,VE181",
+    "etag": "W/\"9c8829f9faa752fbcb4770fa92d08462ccd645448443f8d476b689d676b6bfa0\"",
+    "x-github-request-id": "FC86:34A1:870961:A0ED6A:5F037BA8",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "x-fastly-request-id": "650d92ab54f08cb100612478f8e0ebcc0fdbd00e",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_reorder.js"
+}

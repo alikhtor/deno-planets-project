@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "x-fastly-request-id": "548ab411968567e170e50c19b27cdccc3a93a365",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "connection": "keep-alive",
+    "content-type": "text/plain; charset=utf-8",
+    "expires": "Mon, 06 Jul 2020 19:34:46 GMT",
+    "x-xss-protection": "1; mode=block",
+    "date": "Mon, 06 Jul 2020 19:29:46 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "x-timer": "S1594063787.504927,VS0,VE222",
+    "x-served-by": "cache-vie21647-VIE",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "etag": "W/\"fd541c8e6c75d75ebf91830316c8e7d23b2be2a93432310217a5e8e697e27510\"",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "7486:5984:412937:4EC1D8:5F037BAA"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_basePullAll.js"
+}

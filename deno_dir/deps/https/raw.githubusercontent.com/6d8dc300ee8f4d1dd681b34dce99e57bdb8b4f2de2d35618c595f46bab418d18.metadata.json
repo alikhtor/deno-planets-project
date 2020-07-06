@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-vie21646-VIE",
+    "date": "Mon, 06 Jul 2020 19:29:43 GMT",
+    "connection": "keep-alive",
+    "source-age": "0",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache": "MISS, MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "B968:788D:856222:9F6E67:5F037BA7",
+    "expires": "Mon, 06 Jul 2020 19:34:43 GMT",
+    "x-xss-protection": "1; mode=block",
+    "x-fastly-request-id": "6053f5a1ffd934d7ac4b059d1c34517dc08d1283",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-timer": "S1594063783.480167,VS0,VE480",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"be98f29de5229d3d35661af629070f62eacd35f5f8d77fda77b054bc1fd360b5\""
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/dropWhile.js"
+}

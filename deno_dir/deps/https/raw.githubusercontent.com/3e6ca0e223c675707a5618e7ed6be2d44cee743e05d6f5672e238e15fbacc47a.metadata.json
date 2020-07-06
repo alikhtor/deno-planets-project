@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-vie21644-VIE",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "3502b7fca20cef6000c606c1bceb1525fd636f7c",
+    "accept-ranges": "bytes",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "etag": "W/\"8ab9fd68f9fd396e51cb0076d7c6b7368d031084024036f6fd5666efad99b385\"",
+    "connection": "keep-alive",
+    "x-cache-hits": "0, 0",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "A6B6:2EB1:3EAC57:4B2BA2:5F037BA8",
+    "x-timer": "S1594063785.644562,VS0,VE207",
+    "x-cache": "MISS, MISS",
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/lowerCase.js"
+}

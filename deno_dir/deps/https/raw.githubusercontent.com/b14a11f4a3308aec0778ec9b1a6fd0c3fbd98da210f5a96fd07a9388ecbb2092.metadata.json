@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-served-by": "cache-vie21637-VIE",
+    "connection": "keep-alive",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "x-fastly-request-id": "453524155fcaaa18a285d8fe639fb697189db0e3",
+    "etag": "W/\"fdf18041699c31175556afb50ae2890e109bd9972e85c28baeeeef58962487db\"",
+    "x-xss-protection": "1; mode=block",
+    "content-type": "text/plain; charset=utf-8",
+    "expires": "Mon, 06 Jul 2020 19:34:43 GMT",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1594063784.772197,VS0,VE173",
+    "x-github-request-id": "6B98:0DB0:4047F6:4DD7DB:5F037BA7",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS, MISS",
+    "date": "Mon, 06 Jul 2020 19:29:43 GMT",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/findLastKey.js"
+}

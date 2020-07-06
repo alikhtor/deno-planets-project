@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "75cfdb476fc87e28667ebda4ee2baf2736633bb8",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "connection": "keep-alive",
+    "cache-control": "max-age=300",
+    "etag": "W/\"1ac71b4b929147fb602e4133530fa9875af78d795d0da14f089e9b223c66bb53\"",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1594063785.617718,VS0,VE226",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "4444:34A1:870912:A0ED4C:5F037BA8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "strict-transport-security": "max-age=31536000",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-vie21643-VIE",
+    "x-cache-hits": "0, 0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/plant.js"
+}

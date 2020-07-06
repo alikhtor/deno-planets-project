@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1594063785.544275,VS0,VE198",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "x-fastly-request-id": "450d909be1acf506294f6f6675637a4b2848315f",
+    "x-content-type-options": "nosniff",
+    "x-cache": "MISS, MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-vie21648-VIE",
+    "x-cache-hits": "0, 0",
+    "source-age": "0",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"5523ccc9306a12b4fe03d7bce72ab938bc9685bf46b6a81f01bc1dc875a7a28c\"",
+    "connection": "keep-alive",
+    "x-github-request-id": "5792:4109:1EB0A3:2589AF:5F037BA3",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/kebabCase.js"
+}

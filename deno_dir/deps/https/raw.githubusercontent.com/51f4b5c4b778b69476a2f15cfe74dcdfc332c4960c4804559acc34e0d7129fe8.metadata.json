@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-timer": "S1594063783.480536,VS0,VE208",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "vary": "Authorization,Accept-Encoding",
+    "connection": "keep-alive",
+    "access-control-allow-origin": "*",
+    "expires": "Mon, 06 Jul 2020 19:34:43 GMT",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "etag": "W/\"33e3ff23576899c1ff69f2aebdbb7debbabfb4d68e4f36c1e286dd17e5127377\"",
+    "x-fastly-request-id": "53a2e48d01b0c2d797ad6eb261fe78dedc175369",
+    "x-served-by": "cache-vie21631-VIE",
+    "x-cache-hits": "0, 0",
+    "date": "Mon, 06 Jul 2020 19:29:43 GMT",
+    "source-age": "0",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "85FE:04D7:404E8C:4E1EB4:5F037BA1",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache": "MISS, MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/every.js"
+}

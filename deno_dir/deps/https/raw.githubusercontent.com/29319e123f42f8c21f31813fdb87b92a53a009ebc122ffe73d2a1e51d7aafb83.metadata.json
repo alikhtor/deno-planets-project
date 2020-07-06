@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"e834ca376e4ddc1dce51d15c644ea165bf56d189094dbfb2a17b49c44242af92\"",
+    "x-github-request-id": "C2BA:5985:8274E5:9B903F:5F037BA8",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-fastly-request-id": "69926a0fa71710991ef43ed1d8fdf4564803f967",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1594063785.767138,VS0,VE187",
+    "x-frame-options": "deny",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "connection": "keep-alive",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-vie21640-VIE",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/reject.js"
+}

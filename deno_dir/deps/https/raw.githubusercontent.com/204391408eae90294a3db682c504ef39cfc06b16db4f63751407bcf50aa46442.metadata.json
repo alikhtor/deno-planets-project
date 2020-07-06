@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-served-by": "cache-vie21626-VIE",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "x-fastly-request-id": "28e9a0a52ae0681db3d17e01302ee8d9e6c43818",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"f72a3472e940a4dc6e2c7c508e102e2945d565ea7b82d815734db940b4adc9b2\"",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS, MISS",
+    "x-frame-options": "deny",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1594063786.802718,VS0,VE183",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-github-request-id": "B7FE:20E4:1D87F0:24B64E:5F037BA9"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/values.js"
+}

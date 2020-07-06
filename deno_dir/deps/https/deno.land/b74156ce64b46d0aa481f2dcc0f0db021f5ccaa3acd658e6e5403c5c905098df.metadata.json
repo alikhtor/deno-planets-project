@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "x-github-request-id": "9BAC:7603:8BAC06:A684B6:5F037E50",
+    "date": "Mon, 06 Jul 2020 19:41:05 GMT",
+    "set-cookie": "__cfduid=dd6e03f1f549e291e43fe7d1ed80fb00a1594064464; expires=Wed, 05-Aug-20 19:41:04 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "server": "cloudflare",
+    "etag": "W/\"52f7bf262e047400e0d2e92e5793767dfcd1dfaacb2541161cf0085525044474\"",
+    "cf-cache-status": "MISS",
+    "x-cache": "MISS, MISS",
+    "cache-control": "max-age=14400",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1594064465.914016,VS0,VE259",
+    "x-cache-hits": "0, 0",
+    "cf-request-id": "03c73e83c000003280f1b36200000001",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-content-type-options": "nosniff",
+    "expires": "Mon, 06 Jul 2020 19:46:05 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "content-type": "application/javascript; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "source-age": "0",
+    "x-fastly-request-id": "5fd379e1a0a098817a5d584e7e06d89f34d1c77d",
+    "cf-ray": "5aebcd1939f63280-KBP",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-vie21637-VIE",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/toSafeInteger.js"
+}

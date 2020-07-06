@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "connection": "keep-alive",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "x-served-by": "cache-vie21624-VIE",
+    "x-frame-options": "deny",
+    "x-timer": "S1594063784.212077,VS0,VE188",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-github-request-id": "158E:10EA:3F66F2:4CD85D:5F037BA8",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-cache": "MISS, MISS",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"cf7f96e11a38d1eaef2a27e550cf48951e6bae55e3752322566924c222519699\"",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "accept-ranges": "bytes",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "5ca9e584f169199e88c4cf3c903dab5aef924e3c",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/groupBy.js"
+}

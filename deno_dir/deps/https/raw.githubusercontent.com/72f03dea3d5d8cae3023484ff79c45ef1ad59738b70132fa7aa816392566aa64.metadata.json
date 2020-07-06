@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "etag": "W/\"e2bcd89e29d14ac95157ec2b9887fb065beba224269c36625df2e2ff107622f8\"",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "461329a65fcb4b4b3f8021051caa3d2973682ce6",
+    "source-age": "0",
+    "x-content-type-options": "nosniff",
+    "connection": "keep-alive",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "cache-control": "max-age=300",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "CFC2:0413:3D62DB:4ACF6B:5F037BA8",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "x-timer": "S1594063785.133964,VS0,VE207",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-vie21632-VIE",
+    "x-cache": "MISS, MISS",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/toPairsIn.js"
+}

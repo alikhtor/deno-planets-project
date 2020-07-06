@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache": "MISS, MISS",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0, 0",
+    "x-github-request-id": "EA96:10E9:1C4B14:231B08:5F037BAB",
+    "x-served-by": "cache-vie21621-VIE",
+    "accept-ranges": "bytes",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "connection": "keep-alive",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-timer": "S1594063787.415450,VS0,VE176",
+    "access-control-allow-origin": "*",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "560f30166815cc4f7ef2d4d3d9578e110dee2665",
+    "etag": "W/\"0b3afc0d61138461e208c3f8ef7acb7a04e1ddb7e352482982035efa8f1181b0\""
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_unicodeWords.js"
+}

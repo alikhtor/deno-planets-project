@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-github-request-id": "9E7E:0DB1:8290B5:9C79B4:5F037BA8",
+    "connection": "keep-alive",
+    "cache-control": "max-age=300",
+    "access-control-allow-origin": "*",
+    "accept-ranges": "bytes",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "etag": "W/\"84150ee19b8942776455818ac6411a60e57b56fdac5f5e5dc8521223f5dc30cf\"",
+    "x-xss-protection": "1; mode=block",
+    "x-fastly-request-id": "d269aea93e221e845fb8ded28e7128a3323a408e",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1594063784.447429,VS0,VE221",
+    "x-served-by": "cache-vie21623-VIE"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_createAssigner.js"
+}

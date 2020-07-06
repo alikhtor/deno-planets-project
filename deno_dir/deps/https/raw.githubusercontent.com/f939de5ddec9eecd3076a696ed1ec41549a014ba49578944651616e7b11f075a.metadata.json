@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1594063785.614644,VS0,VE546",
+    "connection": "keep-alive",
+    "etag": "W/\"85fac8d9bdb9e2146c17ff47b1548bef1c2829a7fa4369096c61416c74d6bbd4\"",
+    "cache-control": "max-age=300",
+    "x-fastly-request-id": "8286bd3fccf1fd1c65f9f4f00dd2cd389bf0d9ac",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "B14C:53A2:8C769C:A761AF:5F037BA8",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-vie21626-VIE",
+    "access-control-allow-origin": "*",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/partial.js"
+}

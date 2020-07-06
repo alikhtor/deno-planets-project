@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "connection": "keep-alive",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-vie21634-VIE",
+    "x-frame-options": "deny",
+    "x-timer": "S1594063784.411840,VS0,VE186",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-cache": "MISS, MISS",
+    "etag": "W/\"01ddbad0a2ef771449702dbbdc71d8a8f054d0dd9f3da6e38de11760315d97a1\"",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "f4d20f10c4044a045864815bd658b6236197dc42",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "D084:7A9A:3EB5B7:4C3B9A:5F037BA8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "x-cache-hits": "0, 0",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/isNative.js"
+}

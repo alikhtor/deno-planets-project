@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-fastly-request-id": "fb10fce2589b512a52b5bc52f8ee72911123b3db",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "x-cache-hits": "0, 0",
+    "strict-transport-security": "max-age=31536000",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-github-request-id": "815A:1F8B:3AFEE3:47D6E9:5F037BAA",
+    "accept-ranges": "bytes",
+    "etag": "W/\"8be1c1ebcc92951239ef3a24d4876890cfadd8828d3406b737117f48c5ec5308\"",
+    "x-cache": "MISS, MISS",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "connection": "keep-alive",
+    "x-timer": "S1594063787.887658,VS0,VE199",
+    "cache-control": "max-age=300",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-vie21639-VIE"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_lazyValue.js"
+}

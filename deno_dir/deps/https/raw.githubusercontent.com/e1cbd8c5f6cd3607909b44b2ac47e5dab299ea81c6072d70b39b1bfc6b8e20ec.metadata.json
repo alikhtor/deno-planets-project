@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS, MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1594063786.565988,VS0,VE518",
+    "connection": "keep-alive",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "expires": "Mon, 06 Jul 2020 19:34:46 GMT",
+    "date": "Mon, 06 Jul 2020 19:29:46 GMT",
+    "x-served-by": "cache-vie21620-VIE",
+    "x-fastly-request-id": "d37a88431063ed83f066a3ae22ac53078312c8a5",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"10c3e0038b45267864ba7733838e08898ae81480f7d401f7f1f5333f51079b02\"",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "BD8E:53A1:40B6CE:4E5BAE:5F037BA9",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0, 0",
+    "access-control-allow-origin": "*",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/trimStart.js"
+}

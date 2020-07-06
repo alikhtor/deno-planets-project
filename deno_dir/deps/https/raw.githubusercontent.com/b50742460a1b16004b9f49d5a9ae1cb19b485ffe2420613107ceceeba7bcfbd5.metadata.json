@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-fastly-request-id": "82bfeda89f76ae0491be43038ca4c83d10530a05",
+    "x-xss-protection": "1; mode=block",
+    "expires": "Mon, 06 Jul 2020 19:34:43 GMT",
+    "x-served-by": "cache-vie21651-VIE",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0, 0",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "connection": "keep-alive",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "2418:0DB0:4047F2:4DD79C:5F037BA3",
+    "date": "Mon, 06 Jul 2020 19:29:43 GMT",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"de1fe39c26285e98eccae65a92b6f3608da839a357cee69ff70fef5c334acaab\"",
+    "accept-ranges": "bytes",
+    "x-timer": "S1594063783.488175,VS0,VE218",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/findLast.js"
+}

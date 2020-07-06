@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0, 0",
+    "x-cache": "MISS, MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-vie21630-VIE",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "9438:04D7:404EE6:4E1F75:5F037BAA",
+    "vary": "Authorization,Accept-Encoding",
+    "etag": "W/\"3b18349c5353e3a68d0c88b5d4374d2bbff140fd56afd65d6312285a5aecf1e4\"",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "access-control-allow-origin": "*",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1594063788.600618,VS0,VE183",
+    "source-age": "0",
+    "x-xss-protection": "1; mode=block",
+    "x-fastly-request-id": "6dc54e80aba3248a2a5c6200411abeea10f0330d",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_mapCacheDelete.js"
+}

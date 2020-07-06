@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "connection": "keep-alive",
+    "x-cache": "MISS, MISS",
+    "x-fastly-request-id": "eedf2dd139a8f2f0c1f4eb7769d1028c29b4ecfe",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"d1c427b557ee6959853eb594a6490a12d39c025d37b9032bd5886a4936120ca8\"",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "x-cache-hits": "0, 0",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-timer": "S1594063784.076984,VS0,VE181",
+    "vary": "Authorization,Accept-Encoding",
+    "x-served-by": "cache-vie21621-VIE",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-github-request-id": "F8F8:6DF9:1B7B28:224B94:5F037BA7"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/flowRight.js"
+}

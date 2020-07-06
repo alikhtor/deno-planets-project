@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-served-by": "cache-vie21641-VIE",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "C2BA:5985:827526:9B9071:5F037BAA",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "connection": "keep-alive",
+    "source-age": "0",
+    "x-cache-hits": "0, 0",
+    "etag": "W/\"77e972711d8859f995df6836df1a5a40ea0cfd7b4a44832434a626c4c4ed5d54\"",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "ecd906b6dc159a87d8384a485e8cc4d242957e69",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "x-timer": "S1594063788.534051,VS0,VE203",
+    "x-cache": "MISS, MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_insertWrapDetails.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "663C:53A2:8C76F2:A76209:5F037BAB",
+    "x-served-by": "cache-vie21632-VIE",
+    "x-cache": "MISS, MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "connection": "keep-alive",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "etag": "W/\"9b8edfb1110932560a57ffe0a948898b63cedcded21964d20e4b89d8e0353362\"",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1594063788.532266,VS0,VE236",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "323cc5957ef57b23e257bf7af8e6e981b7962ee6",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_getFuncName.js"
+}

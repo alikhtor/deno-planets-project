@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-cache": "MISS, MISS",
+    "etag": "W/\"3f98af524e59fa2b0b22996d08b549a9af19138211b6d0f30cb2b218a1d3055b\"",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "connection": "keep-alive",
+    "x-timer": "S1594063785.770400,VS0,VE190",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "x-fastly-request-id": "90f229ee0d081edf444953c9106e93348e5f886c",
+    "x-served-by": "cache-vie21643-VIE",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "586A:0414:7E9A4A:97EE8B:5F037BA8",
+    "x-frame-options": "deny",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/replace.js"
+}

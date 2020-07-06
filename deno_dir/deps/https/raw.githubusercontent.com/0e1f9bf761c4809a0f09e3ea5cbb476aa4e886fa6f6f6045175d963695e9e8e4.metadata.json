@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "connection": "keep-alive",
+    "x-served-by": "cache-vie21640-VIE",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "x-timer": "S1594063786.561677,VS0,VE216",
+    "etag": "W/\"9c87c4a283ffff605cc6948e56d154c9466c401e7169efb5a3563279526fbde9\"",
+    "x-fastly-request-id": "2931c73803f8575bd709b0a2db6992d230ea0ab6",
+    "x-cache-hits": "0, 0",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "FA80:48AF:466B59:54ADCE:5F037BA8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "x-cache": "MISS, MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/toUpper.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "connection": "keep-alive",
+    "x-cache": "MISS, MISS",
+    "x-fastly-request-id": "c55d7691e160c25c44404af1e6bf91c2eb25a7b6",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "x-github-request-id": "D412:6DFA:412227:4EDCBC:5F037BA8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "etag": "W/\"20ac5c417018aa777b114c8e1b53b5dea7ccb6ee20c9e5e0e40092e9031a9e00\"",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-vie21628-VIE",
+    "x-cache-hits": "0, 0",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "x-timer": "S1594063785.133781,VS0,VE216",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/takeWhile.js"
+}

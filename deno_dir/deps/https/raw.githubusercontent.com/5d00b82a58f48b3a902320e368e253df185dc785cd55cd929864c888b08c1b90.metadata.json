@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "expires": "Mon, 06 Jul 2020 19:34:46 GMT",
+    "x-cache-hits": "0, 0",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1594063786.803110,VS0,VE213",
+    "x-served-by": "cache-vie21622-VIE",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "1a8576483803bd51c000c0378aaa53f13005be39",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "connection": "keep-alive",
+    "etag": "W/\"e6d9d6e4aee5629f7e304a311ac0317ae9ca28333cde1c6c9c48e40065a5b416\"",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "BE54:2EB2:7F8A4E:982CA8:5F037BA9",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "date": "Mon, 06 Jul 2020 19:29:46 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/wrap.js"
+}

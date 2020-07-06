@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-xss-protection": "1; mode=block",
+    "etag": "W/\"df85474b982bea46965ef0f3ed728b685069cca4f9f5dd97a2518c96c877e984\"",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "x-cache-hits": "0, 0",
+    "connection": "keep-alive",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS, MISS",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "7978b7a945fe9dfb72ca8ad5479e2f4d57f1afc5",
+    "x-served-by": "cache-vie21640-VIE",
+    "vary": "Authorization,Accept-Encoding",
+    "cache-control": "max-age=300",
+    "x-timer": "S1594063785.087811,VS0,VE178",
+    "x-frame-options": "deny",
+    "x-github-request-id": "9438:04D7:404EBB:4E1F4A:5F037BA8",
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/split.js"
+}

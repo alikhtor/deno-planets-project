@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "x-github-request-id": "9552:2B27:87A8CB:A1ECD7:5F037BAB",
+    "x-timer": "S1594063787.426888,VS0,VE198",
+    "vary": "Authorization,Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0, 0",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"fcfb8ad10d753ea286632437e8acaf4e42754b7f012cf10890943325dbed2ff4\"",
+    "x-cache": "MISS, MISS",
+    "x-frame-options": "deny",
+    "x-fastly-request-id": "5d42abaa39ff56a41285298215c7e5e10bf4fa38",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "connection": "keep-alive",
+    "source-age": "0",
+    "x-served-by": "cache-vie21640-VIE"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_asciiWords.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "connection": "keep-alive",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "x-github-request-id": "CF62:7C58:7FA5FC:9913D0:5F037BAA",
+    "source-age": "0",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "etag": "W/\"1daa7fa28301208407f2748b3e8aebff630262a91366f3e4c7a0283cc93d5da7\"",
+    "vary": "Authorization,Accept-Encoding",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1594063787.888257,VS0,VE196",
+    "x-fastly-request-id": "997febe3554a2e87018266eb1d2f5efbaaeb9aa7",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "x-cache-hits": "0, 0",
+    "x-served-by": "cache-vie21621-VIE",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_stringToArray.js"
+}

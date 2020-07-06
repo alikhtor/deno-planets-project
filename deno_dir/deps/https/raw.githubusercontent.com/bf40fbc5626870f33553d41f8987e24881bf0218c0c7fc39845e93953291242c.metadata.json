@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "x-fastly-request-id": "a8b2d86e581e01f953e7dabf7cb4761406869bb7",
+    "x-cache": "MISS, MISS",
+    "source-age": "0",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "33EE:6DF9:1B7B2D:224B99:5F037BA8",
+    "x-xss-protection": "1; mode=block",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1594063785.645064,VS0,VE192",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "etag": "W/\"9a6a35de91b1ecee47dd8294a7fdff56dbadef1f4635287f097ca6a4f3f54026\"",
+    "x-served-by": "cache-vie21641-VIE",
+    "cache-control": "max-age=300",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/shuffle.js"
+}

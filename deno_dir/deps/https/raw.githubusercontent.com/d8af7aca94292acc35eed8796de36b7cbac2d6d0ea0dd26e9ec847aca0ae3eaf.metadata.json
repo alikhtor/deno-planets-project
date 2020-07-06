@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-timer": "S1594063785.542821,VS0,VE189",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-vie21640-VIE",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"4a0adf1b8b21ae5dbe12b022ae2ee242f960049b878c46586287bc99a494c033\"",
+    "vary": "Authorization,Accept-Encoding",
+    "source-age": "0",
+    "x-fastly-request-id": "6a9c040c13e3cb29adf6ce2beaf8af6d46d1df69",
+    "content-type": "text/plain; charset=utf-8",
+    "connection": "keep-alive",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=300",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-github-request-id": "2492:7B56:86A8AA:A0C9B4:5F037BA8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/iteratee.js"
+}

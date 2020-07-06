@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-served-by": "cache-vie21631-VIE",
+    "x-content-type-options": "nosniff",
+    "connection": "keep-alive",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1594063788.534078,VS0,VE228",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "aafa55a6a582aa468d3875d1fcbb9797503d9393",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "etag": "W/\"8122c682f6d88cdf2c033306d458157db0066dcd64f101360a3f38f4f7c086ee\"",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "815A:1F8B:3AFEEA:47D6EF:5F037BAB"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_baseIsEqualDeep.js"
+}

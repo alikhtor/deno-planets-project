@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "x-served-by": "cache-vie21628-VIE",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding",
+    "connection": "keep-alive",
+    "expires": "Mon, 06 Jul 2020 19:34:43 GMT",
+    "date": "Mon, 06 Jul 2020 19:29:43 GMT",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"a2fc500739c3b1d503b6b8f394cdd9a4cc6d56fb154e0440fa12655bf9ce66c3\"",
+    "x-github-request-id": "3616:67C0:803255:9A56E0:5F037BA7",
+    "x-cache": "MISS, MISS",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1594063784.770767,VS0,VE198",
+    "x-fastly-request-id": "d490937413c8896cf49c50b171aaca89f1ab34b8",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/findLastIndex.js"
+}

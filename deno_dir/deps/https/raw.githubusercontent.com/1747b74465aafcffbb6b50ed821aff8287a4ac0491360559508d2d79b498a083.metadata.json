@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "x-served-by": "cache-vie21639-VIE",
+    "access-control-allow-origin": "*",
+    "x-timer": "S1594063785.136050,VS0,VE212",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "ae524e6cf9ed3710359e8e80a90c16adfb49e952",
+    "x-cache": "MISS, MISS",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "connection": "keep-alive",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "E1D4:65AD:404263:4DBA82:5F037BA8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "etag": "W/\"10223e47566cb0fb77ff8a4d39ff57452b00c3eb599e4209b73657470724b35b\""
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/zipObjectDeep.js"
+}

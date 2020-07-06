@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1594063785.135694,VS0,VE185",
+    "connection": "keep-alive",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "access-control-allow-origin": "*",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "x-fastly-request-id": "d3f973f6bac13e203e8970fc533d9461e579fb35",
+    "source-age": "0",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "x-served-by": "cache-vie21637-VIE",
+    "vary": "Authorization,Accept-Encoding",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "6B98:0DB0:404811:4DD7F9:5F037BA8",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"be3018854eae813332e59c6f58a2b432b8931ad1bbe07159bc1e38b14ba8695e\""
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/toPlainObject.js"
+}

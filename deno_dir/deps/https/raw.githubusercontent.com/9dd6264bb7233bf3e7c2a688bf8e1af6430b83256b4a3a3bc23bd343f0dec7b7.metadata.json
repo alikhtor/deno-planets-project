@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "connection": "keep-alive",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "x-served-by": "cache-vie21636-VIE",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-fastly-request-id": "a754b8de305417ce98aaa780424dc27444840260",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0, 0",
+    "etag": "W/\"6e5a85a758de9d7522118768e097bdf25e30348fde4090d4351a13dcda712b73\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-github-request-id": "B0EC:2DD1:1EDCF9:2624A1:5F037BA8",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1594063785.579792,VS0,VE221",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/last.js"
+}

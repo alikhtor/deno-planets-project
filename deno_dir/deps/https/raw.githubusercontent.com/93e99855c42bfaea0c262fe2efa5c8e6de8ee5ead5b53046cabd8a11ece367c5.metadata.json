@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "348444df3e9575aa59c4a0cb1b9ded122d0d28cd",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "6AB2:7B52:5B4B1:86276:5F037BAB",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "etag": "W/\"3ce40c1ab648b32825af1bca6b06699d60ec46533899eed310d0fdbb546abe84\"",
+    "x-served-by": "cache-vie21622-VIE",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "connection": "keep-alive",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "accept-ranges": "bytes",
+    "x-timer": "S1594063788.797456,VS0,VE198",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_stackDelete.js"
+}

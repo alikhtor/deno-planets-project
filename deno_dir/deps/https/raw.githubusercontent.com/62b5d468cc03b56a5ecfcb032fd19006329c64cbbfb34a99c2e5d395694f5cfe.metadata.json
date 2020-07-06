@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "x-github-request-id": "DEFC:0DB0:404837:4DD813:5F037BAA",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-vie21636-VIE",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1594063787.426529,VS0,VE211",
+    "x-fastly-request-id": "86e84fb76e44c9d90a0bb22ac5f281c81e757cdb",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "etag": "W/\"b1e09e905818e9fc0dfc20818f5d448037850487c3eab43b70ca0ac29c4b1eed\"",
+    "x-xss-protection": "1; mode=block",
+    "connection": "keep-alive",
+    "x-cache": "MISS, MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_isFlattenable.js"
+}

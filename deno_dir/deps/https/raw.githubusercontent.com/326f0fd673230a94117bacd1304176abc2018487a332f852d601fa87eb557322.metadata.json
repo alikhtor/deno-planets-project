@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-github-request-id": "CFC2:0413:3D62CF:4ACF60:5F037BA8",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "connection": "keep-alive",
+    "source-age": "0",
+    "etag": "W/\"16658f84d2834facc5144a6870bcb24a37c4cd7f337894b400f027e496fab7a0\"",
+    "accept-ranges": "bytes",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-vie21649-VIE",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1594063784.448912,VS0,VE186",
+    "x-fastly-request-id": "cc53bc88d1d162ea74794e22d7b8dd4d0ba76310",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_baseIteratee.js"
+}

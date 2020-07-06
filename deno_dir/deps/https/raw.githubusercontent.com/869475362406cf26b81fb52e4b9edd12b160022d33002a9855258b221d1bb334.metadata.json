@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "source-age": "0",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-vie21634-VIE",
+    "x-cache": "MISS, MISS",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0, 0",
+    "etag": "W/\"f92ac264b19e1c39875d4db5a396286db11ee939ad85da8dcd845fdb34947485\"",
+    "x-timer": "S1594063785.135269,VS0,VE225",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "5cdcedd86d1fb7d35cb8edf32b0281c96cc5c1e4",
+    "x-frame-options": "deny",
+    "x-github-request-id": "6A66:7C57:423B81:505712:5F037BA8",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/sum.js"
+}

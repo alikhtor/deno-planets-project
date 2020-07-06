@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 06 Jul 2020 19:29:48 GMT",
+    "x-cache-hits": "0, 0",
+    "x-fastly-request-id": "dc61887b88303516633b07273993f6bb0310f620",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"e51834031fda963f739e5503b8ed50efd82eb3d84491a1402c45a2e04d06e0ba\"",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-vie21635-VIE",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "connection": "keep-alive",
+    "expires": "Mon, 06 Jul 2020 19:34:48 GMT",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1594063788.877576,VS0,VE194",
+    "x-github-request-id": "973A:349F:20CD22:28528D:5F037BAB"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_equalArrays.js"
+}

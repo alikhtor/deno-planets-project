@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1594063788.531937,VS0,VE198",
+    "x-cache": "MISS, MISS",
+    "x-github-request-id": "8BEC:2EB2:7F8A67:982CD0:5F037BAB",
+    "strict-transport-security": "max-age=31536000",
+    "content-type": "text/plain; charset=utf-8",
+    "x-served-by": "cache-vie21649-VIE",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "accept-ranges": "bytes",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "x-frame-options": "deny",
+    "etag": "W/\"0aba663053fbfaa147787fc7db07c3ffa515771482dc1d4874ff6278ed17db03\"",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding",
+    "connection": "keep-alive",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "x-fastly-request-id": "cce9a7e5ba4538cedb4ff06db4713bdd512cecbd",
+    "source-age": "0",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_isStrictComparable.js"
+}

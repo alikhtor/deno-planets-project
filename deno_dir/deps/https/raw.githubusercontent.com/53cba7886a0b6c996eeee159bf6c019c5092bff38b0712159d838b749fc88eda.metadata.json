@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "source-age": "0",
+    "x-cache-hits": "0, 0",
+    "etag": "W/\"8d2fd0d0e4546b082f956f92d00d253b8af7505ed8389711796880f22fd98159\"",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "x-served-by": "cache-vie21649-VIE",
+    "access-control-allow-origin": "*",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "8A9E:316E:8018AE:99C4EA:5F037BAB",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS, MISS",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "connection": "keep-alive",
+    "x-fastly-request-id": "69a198860003e3a6225ccb9c1d98fa1edb459fe4",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-timer": "S1594063788.598477,VS0,VE187",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_unicodeToArray.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache-hits": "0, 0",
+    "strict-transport-security": "max-age=31536000",
+    "source-age": "0",
+    "x-timer": "S1594063785.606823,VS0,VE213",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding",
+    "etag": "W/\"9db6f4c011bf7121a011813a516e0c905b0cddb8100ff7dee4dfd15bad51e8d5\"",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "0b33527b230a74fc9f154701dac38c3c6659ae15",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-vie21628-VIE",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "791E:5C44:814E82:9B6B18:5F037BA8",
+    "x-cache": "MISS, MISS",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "connection": "keep-alive",
+    "x-frame-options": "deny",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/mapKeys.js"
+}

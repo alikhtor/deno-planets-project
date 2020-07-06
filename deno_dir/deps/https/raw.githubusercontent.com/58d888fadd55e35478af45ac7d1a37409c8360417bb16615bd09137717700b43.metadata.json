@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "6b0937c2ae70c9bb891543931325c4c88c0ebfac",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "D9BA:34A0:41650A:4F0D44:5F037BA8",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0, 0",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "connection": "keep-alive",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "cache-control": "max-age=300",
+    "x-cache": "MISS, MISS",
+    "x-served-by": "cache-vie21643-VIE",
+    "x-timer": "S1594063785.768094,VS0,VE192",
+    "x-frame-options": "deny",
+    "etag": "W/\"b04673d52962b7e71ec208b30dfda3c86dd1fe0169cc199b92a1e19a837279d0\"",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/reduce.js"
+}

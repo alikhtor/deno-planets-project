@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "connection": "keep-alive",
+    "x-github-request-id": "E1D4:65AD:404260:4DBA75:5F037BA7",
+    "x-served-by": "cache-vie21638-VIE",
+    "accept-ranges": "bytes",
+    "etag": "W/\"270d558757988d8a885bdc64dea728b46c654221d66208bb8615bea043a5acbf\"",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1594063785.644760,VS0,VE199",
+    "x-fastly-request-id": "6f2eb6b77491249c7fffe6c07d76beca1682cb15",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-frame-options": "deny",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/map.js"
+}

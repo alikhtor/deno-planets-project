@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-served-by": "cache-vie21634-VIE",
+    "vary": "Authorization,Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "x-xss-protection": "1; mode=block",
+    "etag": "W/\"6271c36345534c82d71e2d7efd508ffefe748a54000a40dfda234785658b2897\"",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "FB04:316B:C9636:109682:5F037BA3",
+    "accept-ranges": "bytes",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1594063785.573489,VS0,VE225",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "1cb95fe3d572d413fc6f67d11515839b30d60b1e",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/isSymbol.js"
+}

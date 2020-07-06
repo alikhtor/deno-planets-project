@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "x-fastly-request-id": "0df67960c544d31da048e27e48f10029ba7853bd",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "etag": "W/\"6145c554a991f60371a8a2565007b600368a36d2c54067c9cddca5faa313463c\"",
+    "x-cache-hits": "0, 0",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-github-request-id": "4494:3EF4:8322EB:9CDB69:5F037BA8",
+    "x-timer": "S1594063785.544545,VS0,VE269",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-vie21626-VIE",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "x-cache": "MISS, MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/isTypedArray.js"
+}

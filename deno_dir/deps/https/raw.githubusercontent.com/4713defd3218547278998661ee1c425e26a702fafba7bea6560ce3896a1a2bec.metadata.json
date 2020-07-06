@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Mon, 06 Jul 2020 19:29:46 GMT",
+    "expires": "Mon, 06 Jul 2020 19:34:46 GMT",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-served-by": "cache-vie21647-VIE",
+    "x-fastly-request-id": "e593348ed4dfe87a375474b30c327a6b677793dd",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "BD8C:0DAD:5C60A:87997:5F037BA9",
+    "source-age": "0",
+    "x-content-type-options": "nosniff",
+    "x-cache": "MISS, MISS",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"640d7a32a1bc81d4722cb9a761b1f85d4edc89922e6538a294fd9bf654607830\"",
+    "connection": "keep-alive",
+    "x-cache-hits": "0, 0",
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1594063786.565409,VS0,VE491",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/uniqWith.js"
+}

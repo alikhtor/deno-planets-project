@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-fastly-request-id": "9380dba43a84b3e5d580e74ab50f24dde6d90ab7",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "D412:6DFA:412223:4EDCB0:5F037BA8",
+    "x-frame-options": "deny",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-vie21641-VIE",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS, MISS",
+    "connection": "keep-alive",
+    "etag": "W/\"62678caadf25bb08a8eb37cf8a2f4956b91dd500879e66e4897358981a4e5747\"",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "x-timer": "S1594063785.800969,VS0,VE190",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/sortedIndexBy.js"
+}

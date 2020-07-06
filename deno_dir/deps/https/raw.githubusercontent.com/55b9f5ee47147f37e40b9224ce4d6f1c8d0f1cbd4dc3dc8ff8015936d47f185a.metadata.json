@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache-hits": "0, 0",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1594063788.221757,VS0,VE195",
+    "x-content-type-options": "nosniff",
+    "connection": "keep-alive",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-vie21634-VIE",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS, MISS",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "expires": "Mon, 06 Jul 2020 19:34:48 GMT",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "date": "Mon, 06 Jul 2020 19:29:48 GMT",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "x-fastly-request-id": "3563e30863f9fdb3d0f24aca092c328b7cbd6df3",
+    "etag": "W/\"5d19c3e0d96df0ae5d35c7cd7a9ac90cebd0da477854d66d8e283f8f7ab69cb4\"",
+    "x-github-request-id": "EA96:10E9:1C4B18:231B0C:5F037BAB",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_listCacheClear.js"
+}

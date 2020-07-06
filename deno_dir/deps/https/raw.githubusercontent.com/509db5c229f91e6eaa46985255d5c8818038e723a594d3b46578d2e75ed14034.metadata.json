@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "x-fastly-request-id": "ed097b3eeb676f34c8d08cc643a57f5c2ea672f7",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1594063785.569582,VS0,VE216",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "etag": "W/\"a327b970063cd0620606c6cc0e576e3e4638b518bd605e6e0ac85056700257ec\"",
+    "x-cache": "MISS, MISS",
+    "source-age": "0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "461C:6FCA:82451F:9C5AC6:5F037BA8",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-vie21624-VIE",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/mixin.js"
+}

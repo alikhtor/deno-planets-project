@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0, 0",
+    "etag": "W/\"bcc0b00a64a6312620c7d20c38fbaa0d3c4edad02cd5fbbb06c21c2a24a4e61a\"",
+    "connection": "keep-alive",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "c19bcc9e41b47cb60ee13dbf606c2a221716fda2",
+    "x-served-by": "cache-vie21637-VIE",
+    "x-github-request-id": "3408:5C42:1BB3E4:228A96:5F037BA9",
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1594063785.136577,VS0,VE221",
+    "vary": "Authorization,Accept-Encoding",
+    "cache-control": "max-age=300",
+    "x-cache": "MISS, MISS",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/upperFirst.js"
+}

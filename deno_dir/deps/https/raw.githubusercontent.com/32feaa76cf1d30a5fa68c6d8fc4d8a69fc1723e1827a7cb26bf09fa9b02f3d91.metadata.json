@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "34a25b7a89384c1a04b38c41814d9f833592523f",
+    "etag": "W/\"75c1df9d9e543cae82e0f359c7e2b3ad946d70b223c01c417218005f2d163283\"",
+    "cache-control": "max-age=300",
+    "accept-ranges": "bytes",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-vie21639-VIE",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS",
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1594063784.411264,VS0,VE195",
+    "vary": "Authorization,Accept-Encoding",
+    "connection": "keep-alive",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0, 0",
+    "x-github-request-id": "47EE:261D:899AC7:A3EA3D:5F037BA8",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/isNumber.js"
+}

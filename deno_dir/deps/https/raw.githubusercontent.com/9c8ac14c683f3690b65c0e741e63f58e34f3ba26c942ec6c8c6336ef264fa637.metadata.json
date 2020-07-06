@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "etag": "W/\"637e8b16f7338a4f92a51bf4ebe07616b71c8145cf0b50e547e372395f3ad20f\"",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "x-fastly-request-id": "5c906e9ff60e8a0f1ab76016c20274f001a1c029",
+    "vary": "Authorization,Accept-Encoding",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "x-cache": "MISS, MISS",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-vie21623-VIE",
+    "x-timer": "S1594063788.534458,VS0,VE243",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "source-age": "0",
+    "x-github-request-id": "8380:3EF3:40DAF1:4EA1E1:5F037BAB",
+    "connection": "keep-alive",
+    "x-cache-hits": "0, 0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_createRecurry.js"
+}

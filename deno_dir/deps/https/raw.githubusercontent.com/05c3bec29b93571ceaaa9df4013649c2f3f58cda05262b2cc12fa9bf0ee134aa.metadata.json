@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "etag": "W/\"cd92795ffe3aad741f63dbdbca19447e3afb5aec278aaaaebec77b0844ddd298\"",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "58F2:5984:412916:4EC1A3:5F037BA7",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "e95b2ec37292a303d04c41e5898456c5cb40b92d",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-served-by": "cache-vie21622-VIE",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1594063784.418807,VS0,VE403",
+    "connection": "keep-alive",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "x-cache": "MISS, MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/isSafeInteger.js"
+}

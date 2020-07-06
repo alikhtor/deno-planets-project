@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "etag": "W/\"774e4142e2f74219ba892463fc916eea37bf6c99305297d9c712350459ea5fbc\"",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "x-cache": "MISS, MISS",
+    "x-fastly-request-id": "74e8920e6c6c38769ef9388dd8ef124c6071ca29",
+    "x-timer": "S1594063788.536595,VS0,VE195",
+    "source-age": "0",
+    "x-served-by": "cache-vie21638-VIE",
+    "x-github-request-id": "5252:7A9B:83FF67:9E0F81:5F037BAB",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "x-frame-options": "deny",
+    "connection": "keep-alive",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_baseWrapperValue.js"
+}

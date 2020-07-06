@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-github-request-id": "7738:316A:5AC23:85A8A:5F037BA9",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "connection": "keep-alive",
+    "date": "Mon, 06 Jul 2020 19:29:46 GMT",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1594063786.076006,VS0,VE216",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "source-age": "0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-vie21638-VIE",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "etag": "W/\"88858dfa973266cbf0da348ba3acfbe3f1a514b6b395075d0daf88201a070af8\"",
+    "x-xss-protection": "1; mode=block",
+    "x-fastly-request-id": "e18bd1606e86333006dce251b6c28f7629b3d660",
+    "expires": "Mon, 06 Jul 2020 19:34:46 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/wrapperValue.js"
+}

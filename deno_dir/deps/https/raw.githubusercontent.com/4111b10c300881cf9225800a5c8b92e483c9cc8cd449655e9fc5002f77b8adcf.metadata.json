@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "access-control-allow-origin": "*",
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"c8c4c91803951d44c1a1569a6731673049454f43b963fb0e45d9f3919fe1cb31\"",
+    "x-xss-protection": "1; mode=block",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "x-timer": "S1594063788.533927,VS0,VE219",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "0850:7C56:1C9695:23B191:5F037BAA",
+    "x-fastly-request-id": "6df33d21238f3739f35d736fd66790ff390e9469",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-vie21637-VIE",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache": "MISS, MISS",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0, 0",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_metaMap.js"
+}

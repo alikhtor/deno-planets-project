@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "source-age": "0",
+    "x-timer": "S1594063784.828710,VS0,VE185",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "x-content-type-options": "nosniff",
+    "x-cache": "MISS, MISS",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "C7AA:0DB0:4047F6:4DD7DD:5F037BA7",
+    "x-xss-protection": "1; mode=block",
+    "x-fastly-request-id": "53a0b89dadee2c61b29752991d9afabc3b6c9850",
+    "expires": "Mon, 06 Jul 2020 19:34:44 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Mon, 06 Jul 2020 19:29:44 GMT",
+    "x-served-by": "cache-vie21639-VIE",
+    "etag": "W/\"f2d77aa71cf4b484499d4ba7d7f3600231cfb348df02faa0d31729da63662c9b\"",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/flatMap.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-vie21637-VIE",
+    "x-cache-hits": "0, 0",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1594063787.429155,VS0,VE193",
+    "connection": "keep-alive",
+    "source-age": "0",
+    "x-fastly-request-id": "38c1b54696ba2a2d9eb37d1a4cfb623af6c18d27",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "7624:2DD1:1EDD16:2624C6:5F037BAB",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "etag": "W/\"54059548aab7ded61f30e273fcccb951ec1c9d97977cbbf0e5640dfe76cad3a2\"",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "x-frame-options": "deny",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_cloneBuffer.js"
+}

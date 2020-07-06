@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1594063788.533467,VS0,VE196",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "7d59060d4c6fe401344d4faed86d3317093001d5",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "x-served-by": "cache-vie21645-VIE",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"b26d74fff864bf7340ff21146852e056bf809d365eed400e2ff767443b2c60fa\"",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS, MISS",
+    "x-github-request-id": "692E:65AD:40427A:4DBA95:5F037BAA",
+    "x-cache-hits": "0, 0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_baseToNumber.js"
+}

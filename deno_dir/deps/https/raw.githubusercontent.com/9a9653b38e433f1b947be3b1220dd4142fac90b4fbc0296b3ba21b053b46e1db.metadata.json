@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "date": "Mon, 06 Jul 2020 19:29:45 GMT",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0, 0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS, MISS",
+    "x-github-request-id": "098E:100B:3F550E:4CE29C:5F037BA8",
+    "expires": "Mon, 06 Jul 2020 19:34:45 GMT",
+    "x-fastly-request-id": "6831e4f6d3bd834629fd66446da6dbb120008650",
+    "etag": "W/\"399fc7eb892560d2b9a3ffc53d3e50a30e160c7db1fa9fa4de02595807855fe9\"",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "x-timer": "S1594063785.615546,VS0,VE551",
+    "x-served-by": "cache-vie21621-VIE",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "connection": "keep-alive"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/partialRight.js"
+}

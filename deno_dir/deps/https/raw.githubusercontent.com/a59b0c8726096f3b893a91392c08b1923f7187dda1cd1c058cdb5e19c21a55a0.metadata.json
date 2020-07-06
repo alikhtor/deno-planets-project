@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "expires": "Mon, 06 Jul 2020 19:34:46 GMT",
+    "connection": "keep-alive",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0, 0",
+    "x-github-request-id": "7624:2DD1:1EDD0D:2624BC:5F037BAA",
+    "x-timer": "S1594063787.502772,VS0,VE200",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"8b14c9dc18744eaa363017a7d0d607da9c2f5e89c4fc3609dba6465643056eca\"",
+    "x-fastly-request-id": "3fa690b6e589347a8b7b91d9c68e0d57ab23f8bf",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "date": "Mon, 06 Jul 2020 19:29:46 GMT",
+    "x-served-by": "cache-vie21649-VIE",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS, MISS",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_basePropertyDeep.js"
+}

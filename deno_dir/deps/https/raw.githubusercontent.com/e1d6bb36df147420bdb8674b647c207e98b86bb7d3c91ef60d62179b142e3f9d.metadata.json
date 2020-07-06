@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "x-served-by": "cache-vie21647-VIE",
+    "x-fastly-request-id": "71a882a105bc365e3a0e5834dbc79eece1eea47e",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "x-cache-hits": "0, 0",
+    "etag": "W/\"2abe7ee0477dcecc222c530ac366d1b9b1bdcb312939486f334e5e388359205e\"",
+    "connection": "keep-alive",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "FA80:48AF:466B7B:54ADF5:5F037BAA",
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1594063787.428804,VS0,VE210",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_Stack.js"
+}

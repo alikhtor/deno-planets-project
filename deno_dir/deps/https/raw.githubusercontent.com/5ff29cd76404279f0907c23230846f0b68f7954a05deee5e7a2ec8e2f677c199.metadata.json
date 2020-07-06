@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-fastly-request-id": "84472fa662b7000e6840f78db78ca4fa15d6e3c1",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "expires": "Mon, 06 Jul 2020 19:34:47 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-vie21645-VIE",
+    "connection": "keep-alive",
+    "x-cache": "MISS, MISS",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "85FE:04D7:404EE6:4E1F7A:5F037BAA",
+    "x-timer": "S1594063788.532684,VS0,VE236",
+    "etag": "W/\"58e79197b813709f9e1e76a657ba0561ec1c4f44240ee137fb7b0cbb7b6345f3\"",
+    "x-xss-protection": "1; mode=block",
+    "date": "Mon, 06 Jul 2020 19:29:47 GMT",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0, 0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_baseAggregator.js"
+}

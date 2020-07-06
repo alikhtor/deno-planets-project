@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "connection": "keep-alive",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "x-frame-options": "deny",
+    "x-github-request-id": "E1D4:65AD:40426F:4DBA87:5F037BA9",
+    "x-served-by": "cache-vie21641-VIE",
+    "etag": "W/\"17b765a52f0a0efed69e28ef1c0c1f854ec937203a6add648f4afa0d6496d510\"",
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1594063787.505600,VS0,VE215",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Mon, 06 Jul 2020 19:29:46 GMT",
+    "expires": "Mon, 06 Jul 2020 19:34:46 GMT",
+    "source-age": "0",
+    "x-fastly-request-id": "10a9f35a56ffc206ffda7c34e424f6ed882110b3",
+    "x-cache-hits": "0, 0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS, MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "accept-ranges": "bytes",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/_getAllKeysIn.js"
+}

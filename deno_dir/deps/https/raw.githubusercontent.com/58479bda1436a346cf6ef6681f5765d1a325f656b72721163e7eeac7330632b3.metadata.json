@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache": "MISS, MISS",
+    "x-fastly-request-id": "0228c52630b947c1353bf154d8c611d11ecf7547",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0, 0",
+    "x-served-by": "cache-vie21627-VIE",
+    "x-github-request-id": "53B6:1F88:4E443:7778D:5F037BA7",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "etag": "W/\"86622825a6bfb12317b98db60d8facb590987b93fc97cb68990bc169fd1d67ce\"",
+    "expires": "Mon, 06 Jul 2020 19:34:43 GMT",
+    "date": "Mon, 06 Jul 2020 19:29:43 GMT",
+    "connection": "keep-alive",
+    "x-timer": "S1594063783.470394,VS0,VE192"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.15-es/camelCase.js"
+}
